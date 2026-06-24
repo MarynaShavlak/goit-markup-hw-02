@@ -1,0 +1,18 @@
+/* Стилі секції Team */
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-card {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.team-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}

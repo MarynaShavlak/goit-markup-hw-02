@@ -1,0 +1,14 @@
+# IDE / tooling
+.idea/
+.vscode/
+.claude/
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Файли завдання (PDF з вимогами)
+*.pdf
